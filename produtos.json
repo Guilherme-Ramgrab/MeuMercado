@@ -1,0 +1,18 @@
+{
+    "produtos": [
+        {
+            "codigo": 0,
+            "nome": "Itaipava",
+            "tipo": "Cerveja",
+            "valor": 1.5,
+            "quantidade": 200
+        },
+        {
+            "codigo": 1,
+            "nome": "Skol",
+            "tipo": "Cerveja",
+            "valor": 1.7,
+            "quantidade": 300
+        }
+    ]
+}
